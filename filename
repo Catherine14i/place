@@ -1,0 +1,14 @@
+1. cd ~
+2. ls -la
+3. cat
+tac .bash_history
+4. touch filename
+5. nano filename
+6. ctr x
+7. ctr c 
+stop all
+8. rm
+delete
+9. clear 
+10. mkdir
+ 
